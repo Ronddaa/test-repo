@@ -263,6 +263,85 @@ h2{
 
 /* feedback START */
 
+.feedback{
+    padding:        175px 0;
+}
 
+.wrapper-feedback-section{
+    display:            flex;
+    justify-content:    space-between;
+    align-items:        center;
+    width:              1178px;
+    height:             639px;
+    flex-shrink:        0;
+    border-radius:      10px;
+    border:             1px solid #5F0A61;
+    margin-top:         60px;
+    padding:            108px 190px 127px 151px;
+}
+
+.wrapper-feedback{
+    display:            flex;
+    flex-direction:     column;
+    gap:                24px 0;
+    max-width:          536px;
+}
+
+.title-feedback{
+    font-size:          30px;
+    line-height:        1.43;
+    font-weight:        500;
+    max-width:          450px;
+    color:            #2E363E;
+}
+
+.p-feedback{
+    font-size:          15px;
+    line-height:        1.7;
+    font-weight:        400;
+    color:            #2E363E;
+}
+
+.feedback-link{
+    font-family:       'Montserrat';
+    text-decoration:    underline;
+    font-size:          17px;
+    line-height:        1.5;
+    font-weight:        400;
+    color:            #5F0A61;
+}
+
+.feedback-link:hover,
+.feedback-link:focus {
+    color:            #8E0292;
+}
+
+.wrapper-hancock{
+    display:            flex;
+    flex-direction:     column;
+    align-items:        center;
+    font-family:       'Montserrat';
+}
+
+.h3-hancock{
+    font-size:          21px;
+    line-height:        1.43;
+    font-weight:        500;
+    color:            #2E363E;
+    margin-top:         21px;
+    margin-bottom:      5px;
+}
+
+.p-city{
+    font-size:          16px;
+    line-height:        1.7;
+    font-weight:        400;
+}
 
 /* feedback END */
+
+/* tariff START */
+
+
+
+/* tariff END */
