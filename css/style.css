@@ -342,6 +342,71 @@ h2{
 
 /* tariff START */
 
+.tariff{
+    padding:            175px 0;
+}
 
+.title-tariff{
+    margin-bottom:      60px;
+}
+
+.tariff-ul{
+    display:            flex;
+    justify-content:    center;
+    gap:                0 20px;
+    padding:            0;
+}
+
+.tariff-li{
+    padding:            20px 35px 40px;
+    border-radius:      10px;
+    background:       #FFF;
+    box-shadow:         2px 4px 15px 0px rgba(0, 0, 0, 0.05);
+}
+
+.p-tariff-lvl{
+    font-size:          27px;
+    line-height:        1.1;
+    font-weight:        700;
+    color:            #2E363E;
+    margin-top:         40px;
+}
+
+.s-price{
+    margin-left:        60px;
+    font-size:          24px;
+    font-style:         italic;
+    line-height:        1.1;
+    font-weight:        600;
+    color:            #434B53;
+}
+
+.p-about,
+.p-speed{
+    font-size:          16px;
+    line-height:        1.1;
+    font-weight:        400;
+    color:            #2E363E;
+    margin-top:         13px;
+}
+
+.tariff-link-under{
+    display:            flex;
+    justify-content:    right;
+}
+
+.tariff-link{
+    margin-top:         52px;
+    font-size:          17px;
+    line-height:        1.1;
+    font-weight:        400;
+    color:            #5F0A61;
+    border-bottom:      solid 1px #5F0A61;
+}
+
+.tariff-link:hover,
+.tariff-link:focus{
+    color:            #8E0292;
+}
 
 /* tariff END */
