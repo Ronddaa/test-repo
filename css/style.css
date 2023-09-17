@@ -410,3 +410,63 @@ h2{
 }
 
 /* tariff END */
+
+/* Contact START */
+
+.contact{
+    padding:            175px 0;
+}
+
+.wrapper-contact{
+    text-align:         center;
+}
+
+.title-contact{
+    margin-bottom:      26px;
+}
+
+.p-will-contact{
+    font-size:          21px;
+    line-height:        1.43;
+    font-weight:        400;
+    letter-spacing:    -0.2px;
+    color: #2E363E;
+    margin-bottom:      50px;
+}
+
+.wrapper-input{
+    display:            flex;
+    justify-content:    center;
+    gap:                20px;
+    margin-bottom:      32px;
+}
+
+.input{
+    padding:            25px 30px;
+    border-radius:      5px;
+    border:             1px solid rgba(0, 0, 0, 0.32);
+    background:       #FFF;
+    font-size:          17px;
+    line-height:        1.1;
+    font-weight:        400;
+}
+
+.text-checkbox{
+    font-size:          11px;
+    line-height:        1.3;
+    font-weight:        400;
+    color:            #7E868E;
+}
+
+.terms-link{
+    font-size:          11px;
+    text-decoration:    underline;
+    color:            #5F0A61;
+}
+
+.terms-link:hover,
+.terms-link:focus{
+    color:            #8E0292;
+}
+
+/* Contact END */
