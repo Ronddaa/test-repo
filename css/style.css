@@ -6,11 +6,6 @@
     box-sizing: border-box;
 }
 
-ul[class],
-ol[class] {
-    padding: 0;
-}
-
 body,
 h1,
 h2,
@@ -170,3 +165,104 @@ ul{
 }
 
 /* hero end */
+
+/* choose company start */
+
+.choose-company{
+    padding:        172px 0;
+}
+
+h2{
+    font-size:      36px;
+    line-height:    1.33;
+    font-weight:    700;
+    color:        #000;
+    text-align:     center;
+}
+
+.choose-ul{
+    display:            flex;
+    justify-content:    space-between;
+    gap:                0 52px;
+    padding:            60px 0;
+}
+
+.choose-img {
+    text-align:         center;
+    margin-left:        auto;
+    margin-right:       auto;
+    margin-bottom:      11px;
+}
+
+.title-choose-li{
+    font-size:          22px;
+    font-weight:        700;
+    line-height:        1.43;
+    text-align:         center;
+}
+
+.p-choose{
+    font-size:          18px;
+    font-weight:        400;
+    line-height:        1.5;
+}
+
+/* choose company end */
+
+/* connect next day START */
+
+.wrapper-next-day{
+    display:         flex;
+    justify-content: space-between;
+    gap:             95px;
+    padding:         175px 0;
+}
+
+.wrapper-connect-title{
+    display:        flex;
+    flex-direction: column;
+}
+
+.titile-connect{
+    max-width:      375px;
+    letter-spacing: -1px;
+    text-align:     left;
+    margin-bottom:  20px;
+}
+
+.p-connect{
+    font-size:      21px;
+    line-height:    1.43;
+    font-weight:    400;
+    letter-spacing: -0.2px;
+    color:        #434B53;
+    margin-bottom:  28px;
+}
+
+.total-number{
+    display:        flex;
+    gap:            0 71.3px;
+}
+
+.p-number{
+    font-size:      30px;
+    line-height:    1.33;
+    font-weight:    700;
+    color:        #5F0A61;
+}
+
+.p-text-under-number{
+    font-size:      14px;
+    line-height:    1.5;
+    font-weight:    400;
+    max-width:      167px;
+    color:        #2E363E;
+}
+
+/* connect next day END */
+
+/* feedback START */
+
+
+
+/* feedback END */
