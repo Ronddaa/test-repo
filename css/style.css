@@ -470,3 +470,40 @@ h2{
 }
 
 /* Contact END */
+
+/* footer START */
+
+footer{
+    background-color: #5F0A61;
+    padding:            88px 0;
+}
+
+.footer-flex{
+    display:            flex;
+    justify-content:    space-between;
+    align-items:        center;
+}
+
+.wrapper-social{
+    display:            flex;
+    justify-content:    space-between;
+    gap:                0 50px;
+}
+
+.logo-footer{
+    font-family:       'Reem Kufi';
+    font-size:          30px;
+    line-height:        1.5;
+    font-weight:        400;
+    text-transform:     uppercase;
+    color:            #FFF;
+}
+
+.address-link-footer{
+    font-size:          30px;
+    line-height:        1.5;
+    font-weight:        400;
+    color:            #FFF;
+}
+
+/* footer END */
