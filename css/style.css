@@ -108,6 +108,18 @@ ul{
 
 /* header end */
 
+/* line START */
+
+.header-under{
+    width: 1440px;
+    height: 1px;
+    background: #5F0A61;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* line END */
+
 /* hero start */
 
 .wrapper-hero{
