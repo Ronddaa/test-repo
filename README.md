@@ -2,8 +2,6 @@
 
 checkbox
 
-colors
-
 padding
 
 margin
