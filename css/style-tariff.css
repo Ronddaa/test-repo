@@ -1,0 +1,39 @@
+.title-tariff-offers{
+    font-size: 36px;
+    line-height: 1.33;
+    font-weight: 700;
+    color: #2E363E;
+    padding: 79px 0 45px;
+}
+
+.tariff-offers-ul{
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    padding: 0;
+}
+
+.tariff-offers > .container > .tariff-offers-ul{
+    margin-bottom: 79px;
+}
+
+.tariff-offers-li{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+
+    border-radius: 10px;
+    background: #FAFAFA;
+    box-shadow: 2px 4px 15px 0px rgba(0, 0, 0, 0.05);
+
+    padding: 55px 46px 105px 37px;
+}
+
+.more-about{
+    font-size: 16px;
+    line-height: 1.4;
+    font-weight: 400;
+    color: #2E363E;
+
+    margin-top: 15px;
+}
