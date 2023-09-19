@@ -515,11 +515,26 @@ footer{
     color:            #FFF;
 }
 
+.logo-footer:hover,
+.logo-footer:focus{
+    opacity:            .8;
+}
+
+.footer-social:hover,
+.footer-social:focus{
+    opacity:            .8;
+}
+
 .address-link-footer{
     font-size:          30px;
     line-height:        1.5;
     font-weight:        400;
     color:            #FFF;
+}
+
+.address-link-footer:hover,
+.address-link-footer:focus{
+    opacity:            .8;
 }
 
 /* footer END */
